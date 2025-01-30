@@ -1,0 +1,2 @@
+# Optimizing-Hyperparameters-for-DL-Models-Using-EA-Solving-the-4-Class-Spiral-Classification-Problem
+Here’s a concise version of your paper summary in **under 350 characters**:  ---  Optimized DNNs for 4-class spiral classification using Evolutionary Strategies (ES) and Genetic Algorithms (GA) with DEAP. Achieved 95% accuracy with GA, surpassing the baseline (39%). Demonstrates EA's power in enhancing DNN performance for non-linear tasks. 
